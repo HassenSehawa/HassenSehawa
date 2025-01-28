@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**HassenSehawa/HassenSehawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🌟 Hi everyone!
 
 🔭 **A new challenger** and passionate web developer exploring the vast universe of coding. 🚀  
